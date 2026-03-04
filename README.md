@@ -1,16 +1,45 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**Runeplayz/Runeplayz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm RunePlayz, a Minecraft server & plugin developer based in Pakistan 🇵🇰  
 
-Here are some ideas to get you started:
+I specialize in building custom Minecraft experiences — from optimized PvP servers to advanced practice systems and unique gameplay mechanics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I focus on clean code, performance, and scalable systems that feel smooth in real gameplay.
+
+This is where I share my projects, experiments, and systems I’m currently building.  
+Everything here is written properly — no messy shortcuts.
+
+---
+
+## 🛠 Tools & Tech
+
+- Java (17 / 21)
+- Spigot / Paper API
+- MongoDB / MySQL
+- HikariCP
+- Redis (learning & experimenting)
+- Git & GitHub
+
+---
+
+## ⚔️ What I Build
+
+- PvP Practice Systems  
+- Kill Streak & Stats Systems  
+- Custom Core Plugins  
+- Performance-Optimized Server Mechanics  
+- Competitive Game Logic  
+
+---
+
+## 🎮 A Bit About Me
+
+- 🇵🇰 From Pakistan  
+- 🧠 Always improving my backend skills  
+- ⚔️ Love competitive Minecraft  
+- 💡 I enjoy building clean, optimized systems  
+- 🚀 Working toward becoming a top-tier plugin developer  
+
+---
+
+> “Simple. Fast. Optimized.”
