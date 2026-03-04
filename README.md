@@ -76,3 +76,11 @@ I continuously work on improving my software engineering fundamentals and backen
 ---
 
 > Building reliable systems for competitive Minecraft environments.
+> ## Tech Stack
+
+![Java](https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=java)
+![Spigot](https://img.shields.io/badge/Spigot-API-yellow?style=for-the-badge)
+![Paper](https://img.shields.io/badge/Paper-1.21-blue?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-green?style=for-the-badge&logo=mongodb)
+![HikariCP](https://img.shields.io/badge/HikariCP-ConnectionPool-red?style=for-the-badge)
