@@ -1,88 +1,60 @@
-<h1 align="center">RunePlayz</h1>
+# Hey there 👋
 
-<p align="center">
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</p>
+I'm **RunePlayz**, a Minecraft server & plugin developer based in Pakistan 🇵🇰  
 
-<p align="center">
-  Minecraft Server & Plugin Developer 🇵🇰
-</p>
+I specialize in crafting custom Minecraft experiences — from optimized PvP servers to advanced practice systems and unique gameplay mechanics.
 
----
+Focused on **clean code**, **performance**, and **scalable systems** that deliver smooth real gameplay.
 
-## 👋 About Me
-I am a backend-focused Minecraft developer specializing in high-performance server systems and competitive PvP infrastructure.  
-
-My primary focus is building **clean, scalable, and optimized plugins** designed for real-world production environments. I prioritize **performance, maintainability, and proper architecture** over shortcuts.  
-
-I continuously work on improving my software engineering fundamentals and backend system design.
+This is where I share my projects, experiments, and current work — all written with care and no shortcuts.
 
 ---
 
-## 🛠 Technical Stack
+## 🛠 Tools & Tech
 
 <p align="center">
-  <!-- Tech Badges -->
-  <img src="https://img.shields.io/badge/Java-17/21-orange?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/Spigot-API-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Paper-API-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/MongoDB-Database-green?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/HikariCP-ConnectionPool-red?style=for-the-badge" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-17/21-orange?style=for-the-badge&logo=java" />
+  <img alt="Spigot" src="https://img.shields.io/badge/Spigot-API-yellow?style=for-the-badge" />
+  <img alt="Paper" src="https://img.shields.io/badge/Paper-API-blue?style=for-the-badge" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-Database-green?style=for-the-badge&logo=mongodb" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql" />
+  <img alt="HikariCP" src="https://img.shields.io/badge/HikariCP-Pool-red?style=for-the-badge" />
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-Experimenting-orange?style=for-the-badge&logo=redis" />
 </p>
 
 ---
 
-## ⚡ Core Competencies
+## ⚔️ What I Build
 
 - PvP Practice Systems  
-- Kill Streak & Statistics Systems  
-- Player Data Management  
-- Async Database Handling  
-- Scalable Plugin Architecture  
-- Performance Optimization  
-- Clean OOP Design  
+- Kill Streak & Stats Systems  
+- Custom Core Plugins  
+- Performance-Optimized Mechanics  
+- Competitive Game Logic  
 
 ---
 
-## 🎯 Current Focus
+## 🎮 A Bit About Me
 
-- Advanced PvP core systems  
-- Database optimization techniques  
-- Scalable multi-server infrastructure concepts  
-- Writing cleaner, production-ready code  
-
----
-
-## 💡 Development Philosophy
-
-- Performance matters  
-- Clean architecture over quick hacks  
-- Async-first database handling  
-- Code should be readable, scalable, and maintainable  
+- 🇵🇰 Proudly from Pakistan  
+- 🧠 Always sharpening backend skills  
+- ⚔️ Passionate about competitive Minecraft  
+- 💡 Lover of clean, optimized code  
+- 🚀 Aiming to be a top-tier plugin developer  
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_title=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_title=true" />
+  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <!-- Streak & Trophies -->
-  <img src="https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight" />
-  <img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=darkhub&margin-w=15&margin-h=15" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-## 📫 Contact Me
-
-- Discord: RUNE_PLAYZ 
-- GitHub: [https://github.com/Runeplayz](https://github.com/Runeplayz)  
-
-> Building reliable systems for competitive Minecraft environments.
+> “Simple. Fast. Optimized.”
