@@ -83,7 +83,7 @@ I continuously work on improving my software engineering fundamentals and backen
 ## Contact
 
 - Discord: rune_playz 
-- GitHub: [https://github.com/Runeplayz](https://github.com/yourusername)
+- GitHub: [https://github.com/Runeplayz](https://github.com/Runeplayz)
 
 ---
 
