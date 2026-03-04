@@ -1,7 +1,9 @@
 # RunePlayz
 
-**Minecraft Server & Plugin Developer**  
-Pakistan 🇵🇰  
+![Profile Views](https://komarev.com/ghpvc/?username=Runeplayz&color=blueviolet&style=for-the-badge)
+
+Minecraft Server & Plugin Developer  
+Pakistan 🇵🇰
 
 ---
 
