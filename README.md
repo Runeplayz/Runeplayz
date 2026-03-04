@@ -1,45 +1,78 @@
-## Hey there 👋
+# RunePlayz
 
-I'm RunePlayz, a Minecraft server & plugin developer based in Pakistan 🇵🇰  
-
-I specialize in building custom Minecraft experiences — from optimized PvP servers to advanced practice systems and unique gameplay mechanics.
-
-I focus on clean code, performance, and scalable systems that feel smooth in real gameplay.
-
-This is where I share my projects, experiments, and systems I’m currently building.  
-Everything here is written properly — no messy shortcuts.
+**Minecraft Server & Plugin Developer**  
+Pakistan 🇵🇰  
 
 ---
 
-## 🛠 Tools & Tech
+## About Me
 
+I am a backend-focused Minecraft developer specializing in high-performance server systems and competitive PvP infrastructure.
+
+My primary focus is building clean, scalable, and optimized plugins designed for real-world production environments. I prioritize performance, maintainability, and proper architecture over shortcuts.
+
+I continuously work on improving my software engineering fundamentals and backend system design.
+
+---
+
+## Technical Stack
+
+**Languages**
 - Java (17 / 21)
-- Spigot / Paper API
-- MongoDB / MySQL
-- HikariCP
-- Redis (learning & experimenting)
+
+**Minecraft Development**
+- Spigot API
+- Paper API
+- Event-driven architecture
+- Custom game logic systems
+
+**Databases**
+- MySQL
+- MongoDB
+- HikariCP (connection pooling)
+
+**Tools**
 - Git & GitHub
+- Maven / Gradle
+- IntelliJ IDEA
 
 ---
 
-## ⚔️ What I Build
+## Core Competencies
 
-- PvP Practice Systems  
-- Kill Streak & Stats Systems  
-- Custom Core Plugins  
-- Performance-Optimized Server Mechanics  
-- Competitive Game Logic  
-
----
-
-## 🎮 A Bit About Me
-
-- 🇵🇰 From Pakistan  
-- 🧠 Always improving my backend skills  
-- ⚔️ Love competitive Minecraft  
-- 💡 I enjoy building clean, optimized systems  
-- 🚀 Working toward becoming a top-tier plugin developer  
+- PvP Practice Systems
+- Kill Streak & Statistics Systems
+- Player Data Management
+- Async Database Handling
+- Scalable Plugin Architecture
+- Performance Optimization
+- Clean OOP Design
 
 ---
 
-> “Simple. Fast. Optimized.”
+## Current Focus
+
+- Advanced PvP core systems
+- Database optimization techniques
+- Scalable multi-server infrastructure concepts
+- Writing cleaner, production-ready code
+
+---
+
+## Development Philosophy
+
+- Performance matters
+- Clean architecture over quick hacks
+- Async-first database handling
+- Code should be readable, scalable, and maintainable
+
+---
+
+## Contact
+
+- Discord: (your tag here)
+- GitHub: https://github.com/yourusername
+
+---
+
+> Building reliable systems for competitive Minecraft environments.
