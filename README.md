@@ -3,35 +3,110 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img src="./dark.svg" alt="Rune Play, Minecraft server developer and plugin developer from Pakistan">
+  <img src="./dark.svg" alt="Rune Play, Minecraft server developer and plugin developer from Pakistan, working in Java and Python">
 </picture>
+
+<br>
+
+![Minecraft Server Developer](https://img.shields.io/badge/Minecraft_Server_Developer-00C853?style=for-the-badge&logo=minecraft&logoColor=white)
+![Plugin Developer](https://img.shields.io/badge/Plugin_Developer-7C3AED?style=for-the-badge&logo=modrinth&logoColor=white)
+![Server Setup Expert](https://img.shields.io/badge/Server_Setup_Expert-0EA5E9?style=for-the-badge&logo=linux&logoColor=white)
+![Java Developer](https://img.shields.io/badge/Java_Developer-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python Developer](https://img.shields.io/badge/Python_Developer-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
-## Hi, I'm Rune Play
+---
 
-I'm a Minecraft server developer and plugin developer from Pakistan. I build and set up Minecraft servers, and I publish plugins on Modrinth.
+## 👋 About Me
 
-## Focus
+Hi, I'm **Rune Play** from Pakistan 🇵🇰. I'm a **Minecraft server developer** and **plugin developer**, and I build server setups professionally. I've built and set up many servers, and I publish my plugins on Modrinth.
 
-- **Server setups:** building and configuring Minecraft servers from the ground up
-- **Plugin development:** writing plugins and publishing them on Modrinth
-- **Server development:** working on live Minecraft server projects
+```text
+rune@developer:~$ ./profile.sh
 
-## Servers I've worked on
+  NAME      Rune Play
+  ROLES     Minecraft Server Developer · Plugin Developer · Server Setup Expert
+  LANGS     Java · Python
+  LOCATION  Pakistan
+  PLUGINS   Published on Modrinth
+```
 
-| Server | Type |
+---
+
+## 🧭 Titles
+
+| Title | What I do |
 | --- | --- |
-| OggySMP | Minecraft server |
-| ExtremeNetwork | Minecraft server |
-| IndiaMC | Minecraft server |
+| 🎮 **Minecraft Server Developer** | Build and develop Minecraft servers |
+| 🔌 **Plugin Developer** | Write plugins and publish them on Modrinth |
+| 🛠️ **Server Setup Expert** | Set up and configure servers professionally |
+| ☕ **Java Developer** | Java development |
+| 🐍 **Python Developer** | Python development |
 
-## Plugins
+---
 
-I publish plugins on Modrinth.
+## 🧰 Tech Stack
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
+![Modrinth](https://img.shields.io/badge/Modrinth-1BD96A?style=for-the-badge&logo=modrinth&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 🌐 Servers I've Worked On
+
+<table>
+  <tr>
+    <td align="center" width="33%"><b>OggySMP</b><br><sub>Minecraft server</sub></td>
+    <td align="center" width="33%"><b>ExtremeNetwork</b><br><sub>Minecraft server</sub></td>
+    <td align="center" width="33%"><b>IndiaMC</b><br><sub>Minecraft server</sub></td>
+  </tr>
+</table>
+
+---
+
+## 🔌 Plugins
+
+I publish many plugins on **Modrinth**.
 
 <!-- Add a link to your Modrinth profile here -->
 
-## Connect
+---
+
+## 🧩 What I Can Build For You
+
+- ✅ Complete Minecraft server setups
+- ✅ Custom plugins
+- ✅ Server configuration and optimization
+- ✅ Tools and automation in Java and Python
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- Replace YOUR_USERNAME with your GitHub username -->
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
+
+</div>
+
+---
+
+## 📫 Connect
 
 <!-- Add your links here: Modrinth, Discord, email, etc. -->
+
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=7C3AED)
+
+</div>
