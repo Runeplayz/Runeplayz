@@ -101,12 +101,21 @@ I publish many plugins on **Modrinth**.
 
 ---
 
-## 📫 Connect
+### 🌐 Connect With Me
 
-<!-- Add your links here: Modrinth, Discord, email, etc. -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/Runeplayz/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/EHjeWwdnmU" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=plastic&logo=discord&logoColor=white" />
+  </a>
+  <a href="mailto:saadarain940@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://runeplayz.netlify.app//" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=plastic&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=7C3AED)
-
-</div>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0e75b6&height=120&section=footer)
